@@ -1,0 +1,14 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "Cypress practice following cypress best practice guides",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.0.2"
+  }
+}
